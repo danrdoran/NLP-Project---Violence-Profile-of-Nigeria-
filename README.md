@@ -9,3 +9,5 @@ What are the key news trends during the period attached?
 What are the key trending themes?
 Is there a key sentiment in the news?
 Is there a correlation between political violence event types and the key news trending in the region? 
+
+Unfortunately the server I was working on crashed when I was working on the project so I wasn't able to finish it, but I managed to take screenshots of the code I used up until the point it crashed.
